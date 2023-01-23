@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[Empty browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Application Main page is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Automobile module page is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Automobile module page is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Automobile module page is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Automobile module page is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Automobile module page is displayed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closed the browser session successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47905" started-at="2023-01-23T10:30:55 IST" finished-at="2023-01-23T10:31:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47905" started-at="2023-01-23T10:30:55 IST" finished-at="2023-01-23T10:31:43 IST">
+      <class name="testCasesOfTricentisAutomationModule.TC_AM_EnterVehicleData_009">
+        <test-method status="PASS" signature="browserSetUp(java.lang.String)[pri:0, instance:testCasesOfTricentisAutomationModule.TC_AM_EnterVehicleData_009@7c29daf3]" name="browserSetUp" is-config="true" duration-ms="30863" started-at="2023-01-23T10:30:55 IST" finished-at="2023-01-23T10:31:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Empty browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser window is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Application Main page is displayed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method status="PASS" signature="enginePerformance(java.lang.String)[pri:0, instance:testCasesOfTricentisAutomationModule.TC_AM_EnterVehicleData_009@7c29daf3]" name="enginePerformance" duration-ms="2975" started-at="2023-01-23T10:31:28 IST" data-provider="data" finished-at="2023-01-23T10:31:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Automobile module page is displayed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enginePerformance -->
+        <test-method status="PASS" signature="enginePerformance(java.lang.String)[pri:0, instance:testCasesOfTricentisAutomationModule.TC_AM_EnterVehicleData_009@7c29daf3]" name="enginePerformance" duration-ms="750" started-at="2023-01-23T10:31:31 IST" data-provider="data" finished-at="2023-01-23T10:31:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Automobile module page is displayed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enginePerformance -->
+        <test-method status="PASS" signature="enginePerformance(java.lang.String)[pri:0, instance:testCasesOfTricentisAutomationModule.TC_AM_EnterVehicleData_009@7c29daf3]" name="enginePerformance" duration-ms="2736" started-at="2023-01-23T10:31:32 IST" data-provider="data" finished-at="2023-01-23T10:31:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[999.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Automobile module page is displayed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enginePerformance -->
+        <test-method status="PASS" signature="enginePerformance(java.lang.String)[pri:0, instance:testCasesOfTricentisAutomationModule.TC_AM_EnterVehicleData_009@7c29daf3]" name="enginePerformance" duration-ms="672" started-at="2023-01-23T10:31:35 IST" data-provider="data" finished-at="2023-01-23T10:31:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1200.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Automobile module page is displayed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enginePerformance -->
+        <test-method status="PASS" signature="enginePerformance(java.lang.String)[pri:0, instance:testCasesOfTricentisAutomationModule.TC_AM_EnterVehicleData_009@7c29daf3]" name="enginePerformance" duration-ms="2734" started-at="2023-01-23T10:31:35 IST" data-provider="data" finished-at="2023-01-23T10:31:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2000.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Automobile module page is displayed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enginePerformance -->
+        <test-method status="PASS" signature="browserTearDown()[pri:0, instance:testCasesOfTricentisAutomationModule.TC_AM_EnterVehicleData_009@7c29daf3]" name="browserTearDown" is-config="true" duration-ms="4649" started-at="2023-01-23T10:31:38 IST" finished-at="2023-01-23T10:31:43 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Closed the browser session successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+      </class> <!-- testCasesOfTricentisAutomationModule.TC_AM_EnterVehicleData_009 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
