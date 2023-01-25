@@ -21,5 +21,7 @@ public class TC_AM_EnterVehicleData_004 extends BaseClass{
 		Select select = new Select(enterVehicleData.getMakeDropdown());
 		Boolean typeOfDropdown=select.isMultiple();
 		Reporter.log("Make dropdown is Multiple: "+typeOfDropdown.toString(),true);
+		Reporter.log("Make dropdown is Multiple: "+typeOfDropdown.toString(),true);
+		Reporter.log("Make dropdown is Multiple: "+typeOfDropdown.toString(),true);
 	}
 }
