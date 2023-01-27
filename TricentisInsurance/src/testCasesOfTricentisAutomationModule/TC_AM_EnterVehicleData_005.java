@@ -32,5 +32,7 @@ public class TC_AM_EnterVehicleData_005 extends BaseClass {
 			Assert.assertEquals(enterVehicleData.getIconmMakeDropdown().getCssValue("background-position"),ExcelDataReader.fromPropertyFile("tickBackPosition"),"Positive data"+e.getText() +"is not acepted");
 		}
 		Reporter.log("Selected options are displayed properly ");
+		Reporter.log("Selected options are displayed properly ");
+		Reporter.log("Selected options are displayed properly ");
 	}
 }
